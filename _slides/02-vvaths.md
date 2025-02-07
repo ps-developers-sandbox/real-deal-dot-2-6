@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Magical New Caption!!!!!
+Great new caption! Very cool!
 
 ![poptocat](https://octodex.github.com/images/poptocat.png)
 {: .center}
